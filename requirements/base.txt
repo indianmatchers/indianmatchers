@@ -1,0 +1,16 @@
+beautifulsoup4==4.6.0
+Django==1.8.3
+django-crispy-forms==1.4.0
+django-environ==0.4.5
+django-extensions==2.1.0
+django-grappelli==2.11.1
+django-localflavor==1.1
+django-registration-redux==1.2
+Pillow==2.9.0
+psycopg2==2.7.5
+pytz==2018.5
+requests==2.7.0
+six==1.9.0
+sqlparse==0.2.4
+typing==3.6.4
+whitenoise==3.3.1
